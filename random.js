@@ -1,0 +1,1 @@
+window.alert("Jai Mata dii");
