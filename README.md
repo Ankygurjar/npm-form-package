@@ -5,7 +5,7 @@ This package is designed to use for React based UI application where you can ret
 Your system need to have NPM installed.
 Run <code>npm install react-form-init</code>
 
-Go to your <code>src</code> folder and iniside your form components : <br/>
+Go to your <code>src</code> folder and iniside your form components : 
 <code>
 import React, { useState } from 'react'
 import { getData, getErrors } from 'react-form-init';
